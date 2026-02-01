@@ -1,0 +1,11 @@
+[project]
+name = "eeee"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "bloqade>=0.32.0",
+    "quantum-animation-toolbox>=0.1.1",
+    "setuptools<=80",
+]
